@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Piano", "Piano\Piano.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day6", "Day6\Day6.vcxproj", "{75B7DEDB-25D0-4F1F-9F1B-82C902CCD9BE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day7", "Day7\Day7.vcxproj", "{E8570D20-138B-45BA-B81F-583AAB0E9465}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{75B7DEDB-25D0-4F1F-9F1B-82C902CCD9BE}.Release|x64.Build.0 = Release|x64
 		{75B7DEDB-25D0-4F1F-9F1B-82C902CCD9BE}.Release|x86.ActiveCfg = Release|Win32
 		{75B7DEDB-25D0-4F1F-9F1B-82C902CCD9BE}.Release|x86.Build.0 = Release|Win32
+		{E8570D20-138B-45BA-B81F-583AAB0E9465}.Debug|x64.ActiveCfg = Debug|x64
+		{E8570D20-138B-45BA-B81F-583AAB0E9465}.Debug|x64.Build.0 = Debug|x64
+		{E8570D20-138B-45BA-B81F-583AAB0E9465}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8570D20-138B-45BA-B81F-583AAB0E9465}.Debug|x86.Build.0 = Debug|Win32
+		{E8570D20-138B-45BA-B81F-583AAB0E9465}.Release|x64.ActiveCfg = Release|x64
+		{E8570D20-138B-45BA-B81F-583AAB0E9465}.Release|x64.Build.0 = Release|x64
+		{E8570D20-138B-45BA-B81F-583AAB0E9465}.Release|x86.ActiveCfg = Release|Win32
+		{E8570D20-138B-45BA-B81F-583AAB0E9465}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

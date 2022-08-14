@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main8()
 {
 	char 문자 = 'a';             // 값 대입
 	char* 문자_위치 = &문자;       // 문자 변수의 위치가 담김
